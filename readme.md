@@ -1,12 +1,12 @@
-**Proyecto ETL Ventas**
+**Proyecto ETL Ventas**<br>
     Se busca dar respuesta a los siguients requisitos de información:<br>
-        1) Cantidad de unidades vendidas de cada producto considerando al cliente, vendedor y la fecha.
-        2) Suma total recaudad por producto considerando al cliente, vendedor y la fecha.
-    Como los indicadores con los que se esta trabajando y teniendo en consideración lo establecido en la metodología **Hefesto** se reunen los indicadores en una sola tabla de hechos.
+        1) Cantidad de unidades vendidas de cada producto considerando al cliente, vendedor y la fecha.<br>
+        2) Suma total recaudad por producto considerando al cliente, vendedor y la fecha.<br>
+    Como los indicadores con los que se esta trabajando y teniendo en consideración lo establecido en la metodología **Hefesto** se reunen los indicadores en una sola tabla de hechos.<br>
 
-**Flujo de Trabajo**
+**Flujo de Trabajo**<br>
 
-        1)Extracción
+        1)Extracción<br>
     Los datos son extraídos de una base de datos **MYSQL** utilizzando una conexión establecida mediante las librerias SQLAlchemy y Pandas.
     
         2)Transformación 
