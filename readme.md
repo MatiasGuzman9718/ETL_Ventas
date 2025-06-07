@@ -6,8 +6,8 @@
 
 **Flujo de Trabajo**<br>
 
-        1)Extracción<br>
-    Los datos son extraídos de una base de datos **MYSQL** utilizzando una conexión establecida mediante las librerias SQLAlchemy y Pandas.
+        1)Extracción
+    Los datos son extraídos de una base de datos MYSQL utilizzando una conexión establecida mediante las librerias SQLAlchemy y Pandas.
     
         2)Transformación 
     Durante este etapa. los datos extraidos son limpiados , reestructurados y filtrados con el fin de que los datos sean cargados en el datawarehouse sean de calidad y sirvan para dar respuestas a los requisistos planteados al principio del proyecto.
