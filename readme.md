@@ -12,5 +12,8 @@
         2)Transformación 
     Durante este etapa. los datos extraidos son limpiados , reestructurados y filtrados con el fin de que los datos sean cargados en el datawarehouse sean de calidad y sirvan para dar respuestas a los requisistos planteados al principio del proyecto.
 
-    Además, se definieron explícitamente los esquemas de la base de datos **staging** y del datawarehouse utilizando SQLAlkchemy Core.
+    Además, se definieron explícitamente los esquemas de la base de datos staging y del datawarehouse utilizando SQLAlkchemy Core.
     
+        3)Carga
+    Una vez transformados y validados los datos se realizo la carga de los datos al datawarehouse utilizando las librerias antes mencionadas.
+
