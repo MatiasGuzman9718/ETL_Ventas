@@ -10,10 +10,3 @@
 ###Extracción 
     Los datos de obtuvieron de una base de datos transaccional MySQL, la base de datos esta relacionada a un proceso de retail.
 
-
-
-
-
-Indicadroes
-    1) Quiero saber la cantidad vendida de cada producto por cliente, vendedor y fecha 
-    2) Quiero saber la cantidad recaudad de cada prodcuto por cliente,vendedor y fecha
